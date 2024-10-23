@@ -46,7 +46,8 @@ def jogo():
     x_mudanca = 0
     y_mudanca = 0
 
-    #corpo cobra
+    #corpo cobra 
+    
     lista_cobra = []
     comprimento_cobra = 1
     
